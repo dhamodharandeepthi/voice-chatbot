@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.avatar img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+
+.avatar-speaking {
+  animation: speak-animation 0.5s infinite;
+}
+
+@keyframes speak-animation {
+  0% {
+    transform: scaleY(1);
+  }
+  50% {
+    transform: scaleY(1.2);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
+
+.response {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.transcript {
+  margin-top: 20px;
+}
