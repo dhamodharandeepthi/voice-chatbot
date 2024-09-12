@@ -1,3 +1,3 @@
 ## Demo video
 
-https://github.com/user-attachments/assets/97d8a621-3e8a-486e-b7d9-c001e1b5e155
+https://github.com/user-attachments/assets/a3e43670-60cd-4268-bee7-effca76d45ff
